@@ -123,10 +123,3 @@ This project successfully demonstrates:
 * Clean UI/UX design
 
 ---
-
-## 🙌 Acknowledgements
-
-* OpenAI
-* Google Gemini
-
----
